@@ -65,5 +65,5 @@ Perfectionism Plunge is a project aimed at identifying perfectionism in all aspe
 **Important Takeaways:**
 
 -  Perfectionism isn't all or nothing. It has its benefits and flaws.
--  Perfect is not real. Good enough is ideal.
+-  Perfect is not real. Good enough works.
 -  Focusing on the process is just as important as the result. The joy lives in the process.
