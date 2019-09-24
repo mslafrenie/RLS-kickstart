@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sali Lafrenie
 
 # Username (this should match the folder name)
 authors:
@@ -10,23 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Returning Residence Fellow
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
+organizations: Housing and Residence Life Services
+- name: Carleton University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: As part of my ongoing training I decided to do my independent research project on perfectionism.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+goals:
+- Identifying and defining perfectionism in our lives
+- Highlighting resources and strategies for managing perfectionism
+- Creating a space for reflection
 
-education:
-  courses:
+takeaways:
+  What I learned and what I hope you'll get from this
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
