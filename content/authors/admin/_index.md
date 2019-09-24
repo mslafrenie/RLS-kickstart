@@ -26,7 +26,6 @@ goals:
 - Creating a space for reflection
 
 takeaways:
-  What I learned and what I hope you'll get from this
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
