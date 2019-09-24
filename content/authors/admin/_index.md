@@ -49,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sali.lafrenie@carleton.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -60,7 +60,8 @@ user_groups:
 
 Perfectionism Plunge is a project aimed at identifying perfectionism in all aspects of our lives and unpacking how it helps and hinders our success.
 
-**Research Goals:** :
+**Research Goals:** 
+
 -  Identifying and defining perfectionism in our lives
 -  Highlighting resources and strategies for managing perfectionism
 -  Creating a space for reflection
