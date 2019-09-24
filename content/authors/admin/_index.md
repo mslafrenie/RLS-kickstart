@@ -20,10 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Sali Lafrenie | Returning Residence Fellow | Carleton Univeristy | Independent Research Project
 
-Interests:
-- Identifying and defining perfectionism in our lives
-- Highlighting resources and strategies for managing perfectionism
-- Creating a space for reflection
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -65,3 +61,9 @@ Perfectionism Plunge is a project aimed at identifying perfectionism in all aspe
 -  Identifying and defining perfectionism in our lives
 -  Highlighting resources and strategies for managing perfectionism
 -  Creating a space for reflection
+
+**Important Takeaways:**
+
+-  Perfectionism isn't all or nothing. It has its benefits and flaws.
+-  Perfect is not real. Good enough is ideal.
+-  Focusing on the process is just as important as the result. The joy lives in the process.
