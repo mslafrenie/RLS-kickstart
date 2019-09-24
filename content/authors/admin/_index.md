@@ -14,7 +14,7 @@ role: Returning Residence Fellow
 
 # Organizations/Affiliations
 organizations: 
-- name: Housing and Residence Life Services
+- name: Housing & Residence Life Services
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
