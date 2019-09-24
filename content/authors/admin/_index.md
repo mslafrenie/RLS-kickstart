@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Sali Lafrenie | Returning Residence Fellow | Carleton Univeristy | Independent Research Project
 
-Goals:
+Interests:
 - Identifying and defining perfectionism in our lives
 - Highlighting resources and strategies for managing perfectionism
 - Creating a space for reflection
