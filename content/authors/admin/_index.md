@@ -13,7 +13,7 @@ superuser: true
 role: Returning Residence Fellow
 
 # Organizations/Affiliations
-organizations: Housing and Residence Life Services
+organizations: 
 - name: Carleton University
   url: ""
 
