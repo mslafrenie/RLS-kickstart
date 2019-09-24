@@ -60,7 +60,7 @@ user_groups:
 
 Perfectionism Plunge is a project aimed at identifying perfectionism in all aspects of our lives and unpacking how it helps and hinders our success.
 
-Research Goals:
-- Identifying and defining perfectionism in our lives
-- Highlighting resources and strategies for managing perfectionism
-- Creating a space for reflection
+**Research Goals:**
+-  Identifying and defining perfectionism in our lives
+-  Highlighting resources and strategies for managing perfectionism
+-  Creating a space for reflection
