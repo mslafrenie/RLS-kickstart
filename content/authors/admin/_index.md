@@ -30,7 +30,7 @@ social:
   icon_pack: fas
   link:  mailto:sali.lafrenie@carleton.ca
 - icon: twitter
-  icon_pack: fas
+  icon_pack: fab
   link: https://twitter.com/Sals1296
 # - icon: google-scholar
   icon_pack: 
