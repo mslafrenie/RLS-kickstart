@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sali Lafrenie | Returning Residence Fellow | Carleton Univeristy | Independent Research Project
+bio: Sali Lafrenie | Returning Residence Fellow | Carleton University | Independent Research Project
 
 
 # Social/Academic Networking
@@ -66,4 +66,4 @@ Perfectionism Plunge is a project aimed at identifying perfectionism in all aspe
 
 -  Perfectionism isn't all or nothing. It has its benefits and flaws.
 -  Perfect is not real. Good enough works.
--  Focusing on the process is just as important as the result. The joy lives in the process.
+-  Focusing on the process is just as important as the result. The joy is in the details.
