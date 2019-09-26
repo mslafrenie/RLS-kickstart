@@ -10,17 +10,17 @@
 
 [[main]]
   name = "Research"
-  url = "#info"
+  url = "#research"
   weight = 20
 
 [[main]]
   name = "Simulations"
-  url = "#projects"
+  url = "#simulations"
   weight = 30
 
 [[main]]
   name = "Resources"
-  url = "#featured"
+  url = "#resources"
   weight = 40
 
 [[main]]
