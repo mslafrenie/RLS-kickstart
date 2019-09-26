@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Research"
-  url = "#research"
+  url = "#pages"
   weight = 20
 
 [[main]]
@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Resources"
-  url = "#resources"
+  url = "#featured"
   weight = 40
 
 [[main]]
