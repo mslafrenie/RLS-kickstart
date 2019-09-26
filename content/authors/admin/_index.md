@@ -28,7 +28,7 @@ bio: Sali Lafrenie | Returning Residence Fellow | Carleton University | Independ
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use mailto:sali.lafrenie@carleton.ca
+  link:  mailto:sali.lafrenie@carleton.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Sals1296
