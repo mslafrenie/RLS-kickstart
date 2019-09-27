@@ -32,7 +32,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
+- icon: google-scholar
   icon_pack: 
   link: 
 - icon: github
