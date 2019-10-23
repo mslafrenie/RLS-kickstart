@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: RRF & CA
+role: Returning Residence Fellow & Community Advisor
 
 # Organizations/Affiliations
 organizations: 
