@@ -14,7 +14,7 @@ role: RRF & CA
 
 # Organizations/Affiliations
 organizations: 
-- name: Housing & Residence Life Services
+- name: Carleton Residence Life Services
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
