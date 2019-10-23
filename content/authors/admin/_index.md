@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sali Lafrenie
+name: Sali Lafrenie & Colleen Lamanna
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Returning Residence Fellow
+role: Returning Residence Fellow & Community Advisor
 
 # Organizations/Affiliations
 organizations: 
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sali Lafrenie | Returning Residence Fellow | Carleton University | Independent Research Project
+bio: Sali & Colleen | Carleton University 
 
 
 # Social/Academic Networking
@@ -56,14 +56,9 @@ user_groups:
 
 Perfectionism Plunge is a project aimed at identifying perfectionism in all aspects of our lives and unpacking how it helps and hinders our success.
 
-**Research Goals:** 
 
--  Identifying and defining perfectionism in our lives
--  Highlighting resources and strategies for managing perfectionism
--  Creating a space for reflection
+**Learning Outcomes:**
 
-**Important Takeaways:**
-
--  Perfectionism isn't all or nothing. It has its benefits and flaws.
--  Perfect is not real. Good enough works.
--  Focusing on the process is just as important as the result. The joy is in the details.
+-  Participants in this workshop will be able to identify two ways that perfectionism manifests in their roles personally and professionally.
+-  By the end of this workshop, participants will be able to describe the three different types of perfectionism that can affect individuals personally and in their communities.
+-  By the end of this workshop, participants will be able to discuss two strategies that they can utilize to help overcome negative self-talk.
