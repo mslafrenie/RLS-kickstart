@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sali Lafrenie & Colleen Lamanna
+name: Sali & Colleen 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Returning Residence Fellow & Community Advisor
+role: RRF & CA
 
 # Organizations/Affiliations
 organizations: 
@@ -54,7 +54,12 @@ user_groups:
 - Visitors
 ---
 
-Perfectionism Plunge is a project aimed at identifying perfectionism in all aspects of our lives and unpacking how it helps and hinders our success.
+In the modern world, it is all too common to believe that there is a “perfect” life or lifestyle that must be obtained to feel fulfilled. But achieving perfection isn’t easy or possible. When we strive for perfection we often lose sight of our goals and pour all of our energy into the results which stop us from enjoying the process. In order to explore who we want to be it is crucial that we look inwards at the effects that our actions, self-talk, and current strategies have on our development and well-being. Are you ready to take the plunge?
+
+
+**Program Theme:**
+
+-  Self-Care & Role Modeling
 
 
 **Learning Outcomes:**
