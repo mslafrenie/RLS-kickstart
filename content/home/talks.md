@@ -11,7 +11,6 @@ title = "Resources"
 subtitle = ""
 
 [content]
-  +++
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -49,7 +48,7 @@ height = ""
 
 [[item]]
   title = "TED Talks"
-  content = "èWhen are we going to appreciate that there is something fundamentally inhuman about limitless perfection? No one is flawless. If we want to help our young people escape the trap of perfectionism, then we will teach them that in a chaotic world, life will often defeat us, but that's OK.è"
+  content = "'When are we going to appreciate that there is something fundamentally inhuman about limitless perfection? No one is flawless. If we want to help our young people escape the trap of perfectionism, then we will teach them that in a chaotic world, life will often defeat us, but that's OK.'"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -80,5 +79,4 @@ height = ""
   cta_url = "https://self-compassion.org/"
   cta_icon_pack = "fas"
   cta_icon = "heart"
-  
-+++
+ 
