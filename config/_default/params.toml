@@ -86,7 +86,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sali.lafrenie@carleton.ca"
-email = "colleen.lamanna@carleton.ca"
+email2 = "colleen.lamanna@carleton.ca"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
