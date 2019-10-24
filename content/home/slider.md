@@ -7,7 +7,7 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = true
+interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "Podcasts"
+  content = "We recommend 'Middle Finger to Perfection' and 'Getting to Good Enough' :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,13 +29,13 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "Explore"
+  cta_url = "https://www.effperfect.com/podcast"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "headphones"
 
 [[item]]
-  title = "Left"
+  title = "TED Talks"
   content = "I am left aligned :smile:"
   align = "left"
 
@@ -44,8 +44,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "Self-Compassion"
+  content = "'Instead of mercilessly judging and criticizing yourself for various inadequacies or shortcomings, self-compassion means you are kind and understanding when confronted with personal failings – after all, who ever said you were supposed to be perfect?' :smile:"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
