@@ -88,7 +88,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Explore"
-  cta_url = "{{% staticref "files/passive-program.md.pdf" %}}Download my CV{{% /staticref %}}."
+  cta_url = "{{% staticref "passive-program.md.pdf" %}}Download my CV{{% /staticref %}}."
   cta_icon_pack = "fas"
   cta_icon = "comments"
  
