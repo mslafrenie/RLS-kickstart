@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Podcasts"
-  content = "Check out 'Middle Finger to Perfection' & 'Getting to Good Enough' "
+  content = "'Perfectionism is a drug that keeps us forever chasing the high of being better, more deserving, more worthy.'"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "TED Talks"
-  content = "When are we going to appreciate that there is something fundamentally inhuman about limitless perfection? No one is flawless. If we want to help our young people escape the trap of perfectionism, then we will teach them that in a chaotic world, life will often defeat us, but that's OK."
+  content = "èWhen are we going to appreciate that there is something fundamentally inhuman about limitless perfection? No one is flawless. If we want to help our young people escape the trap of perfectionism, then we will teach them that in a chaotic world, life will often defeat us, but that's OK.è"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
