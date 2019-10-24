@@ -88,24 +88,6 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 email = "sali.lafrenie@carleton.ca"
 email = "colleen.lamanna@carleton.ca"
 
-# Address
-# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "", region = "", postcode = "", country = "", country_code = ""}
-
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "", longitude = ""}
-
-# Directions for visitors to locate you.
-directions = ""
-
-# Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = []
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
-
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
@@ -125,20 +107,6 @@ sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "Sals1296"
-
-############################
-## Regional Settings
-############################
-
-# Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-#   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
-#   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
-
-# List delimiter (separates parts of an address)
-# Popular separators are ", " (comma), "<br>" (new line), " " (space)
-list_delimiter = ", "
 
 ############################
 ## Advanced
