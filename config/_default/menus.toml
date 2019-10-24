@@ -30,5 +30,5 @@
 
 [[main]]
  name = "Worksheet"
- url = "files/cv.pdf"
+ url = "static/cv.pdf"
  weight = 70
