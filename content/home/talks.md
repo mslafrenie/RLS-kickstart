@@ -11,59 +11,74 @@ title = "Resources"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+  +++
+# Slider widget.
+widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 4  # Order that this section will appear.
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+# Slide interval.
+# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
+interval = false
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-    
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
+# Slide height (optional).
+# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
+height = ""
 
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+# Slides.
+# Duplicate an `[[item]]` block to add more slides.
+[[item]]
+  title = "Podcasts"
+  content = "'Perfectionism is a drug that keeps us forever chasing the high of being better, more deserving, more worthy.'"
+  align = "center"  # Choose `center`, `left`, or `right`.
 
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Listen"
+  cta_url = "https://www.effperfect.com/podcast"
+  cta_icon_pack = "fas"
+  cta_icon = "headphones"
+
+[[item]]
+  title = "TED Talks"
+  content = "èWhen are we going to appreciate that there is something fundamentally inhuman about limitless perfection? No one is flawless. If we want to help our young people escape the trap of perfectionism, then we will teach them that in a chaotic world, life will often defeat us, but that's OK.è"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Explore"
+  cta_url = "https://www.ted.com/talks/thomas_curran_our_dangerous_obsession_with_perfectionism_is_getting_worse/transcript?language=en"
+  cta_icon_pack = "fas"
+  cta_icon = "brain"
+
+[[item]]
+  title = "Self-Compassion"
+  content = "'Instead of mercilessly judging and criticizing yourself for various inadequacies or shortcomings, self-compassion means you are kind and understanding when confronted with personal failings – after all, who ever said you were supposed to be perfect?'"
+  align = "center"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+    # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Try it!"
+  cta_url = "https://self-compassion.org/"
+  cta_icon_pack = "fas"
+  cta_icon = "heart"
+  
 +++
