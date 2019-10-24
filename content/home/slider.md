@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Podcasts"
-  content = "We recommend 'Middle Finger to Perfection' and 'Getting to Good Enough' "
+  content = "Check out 'Middle Finger to Perfection' & 'Getting to Good Enough' "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,7 +29,7 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Explore"
+  cta_label = "Listen"
   cta_url = "https://www.effperfect.com/podcast"
   cta_icon_pack = "fas"
   cta_icon = "headphones"
@@ -42,6 +42,14 @@ height = ""
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Explore"
+  cta_url = "https://www.ted.com/talks/thomas_curran_our_dangerous_obsession_with_perfectionism_is_getting_worse/transcript?language=en"
+  cta_icon_pack = "fas"
+  cta_icon = "brain"
 
 [[item]]
   title = "Self-Compassion"
