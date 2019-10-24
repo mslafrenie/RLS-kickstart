@@ -73,7 +73,7 @@ height = ""
   cta_label = "Try it!"
   cta_url = "https://self-compassion.org/"
   cta_icon_pack = "fas"
-  cta_icon = "comments"
+  cta_icon = "heart"
   
   [[item]]
   title = "Passive Program"
@@ -90,6 +90,6 @@ height = ""
   cta_label = "Explore"
   cta_url = "static/passive-program.md.pdf"
   cta_icon_pack = "fas"
-  cta_icon = "brain"
+  cta_icon = "comments"
  
 ++++
