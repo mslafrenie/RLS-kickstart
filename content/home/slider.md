@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 4  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Podcasts"
-  content = "We recommend 'Middle Finger to Perfection' and 'Getting to Good Enough' :smile:"
+  content = "We recommend 'Middle Finger to Perfection' and 'Getting to Good Enough' "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,8 +36,8 @@ height = ""
 
 [[item]]
   title = "TED Talks"
-  content = "I am left aligned :smile:"
-  align = "left"
+  content = "I am left aligned"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
@@ -45,8 +45,8 @@ height = ""
 
 [[item]]
   title = "Self-Compassion"
-  content = "'Instead of mercilessly judging and criticizing yourself for various inadequacies or shortcomings, self-compassion means you are kind and understanding when confronted with personal failings – after all, who ever said you were supposed to be perfect?' :smile:"
-  align = "right"
+  content = "'Instead of mercilessly judging and criticizing yourself for various inadequacies or shortcomings, self-compassion means you are kind and understanding when confronted with personal failings – after all, who ever said you were supposed to be perfect?'"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
