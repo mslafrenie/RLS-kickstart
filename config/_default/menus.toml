@@ -30,5 +30,5 @@
 
 [[main]]
  name = "Worksheet"
- url = " {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}."
+ url = "cv.pdf"
  weight = 70
