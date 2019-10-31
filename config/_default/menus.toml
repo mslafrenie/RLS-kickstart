@@ -13,22 +13,17 @@
   url = "#posts"
   weight = 20
 
-#[[main]]
-  name = "Simulations"
-  url = "#projects"
-  weight = 30
-
 [[main]]
   name = "Resources"
   url = "#talks"
-  weight = 40
+  weight = 30
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 40
 
 [[main]]
  name = "Worksheet"
  url = "cv.pdf"
- weight = 70
+ weight = 50
