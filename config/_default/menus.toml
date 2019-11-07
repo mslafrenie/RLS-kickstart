@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Slides"
-  url = "#posts"
+  url = "RLC Presentation.pdf"
   weight = 20
 
 [[main]]
