@@ -19,4 +19,4 @@ email_form = 2
 +++
 
 ---
-**SContact us at sali.lafrenie@carleton.ca or colleen.lamanna@carleton.ca**
+**Contact us at sali.lafrenie@carleton.ca or colleen.lamanna@carleton.ca**
