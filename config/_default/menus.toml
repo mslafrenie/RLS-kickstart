@@ -20,7 +20,7 @@ s# Navigation Links
   
 [[main]]
   name = "Contact"
-  url = "#projects"
+  url = "projects.md"
   weight = 40
 
 [[main]]
