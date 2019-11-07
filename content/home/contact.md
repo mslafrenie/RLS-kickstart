@@ -19,4 +19,4 @@ email_form = 2
 +++
 
 ---
-**EMAIL US** Sali and Colleen can be reached at the following emails: sali.lafrenie@carleton.ca; colleen.lamanna@carleton.ca.
+**Sali and Colleen can be reached at the following emails: sali.lafrenie@carleton.ca; colleen.lamanna@carleton.ca**
